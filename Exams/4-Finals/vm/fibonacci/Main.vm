@@ -1,0 +1,53 @@
+// ---------------------------------  
+// ---------------------------------
+
+function Main.main 0
+    // size = 11
+    push constant 11
+    pop static 0
+
+    // a1 = 0
+    push constant 0
+    pop static 1
+
+    // a2 = 1
+    push constant 1
+    pop static 2
+
+    // push a1
+    push static 1
+
+label loop
+    // a(n) = a(n-1) + a(n-2)
+    push static 1
+    push static 2
+    add
+    pop static 3
+
+    // a(n-2) = a(n-1)
+    push static 2
+    pop static 1
+
+    // a(n-1) = a(n)
+    push static 3
+    pop static 2
+    
+    // push a(n-1)
+    push static 1
+
+    // size -= 1
+    push static 0
+    push constant 1
+    sub
+    pop static 0
+
+    // if size < 2 then break
+    push static 0
+    push constant 2
+    lt
+    if-goto while2
+goto loop
+
+// nao deve tirar isso!
+label while2
+    goto while2

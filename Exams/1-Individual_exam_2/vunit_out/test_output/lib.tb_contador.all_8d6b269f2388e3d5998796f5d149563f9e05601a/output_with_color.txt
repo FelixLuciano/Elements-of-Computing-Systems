@@ -1,0 +1,27 @@
+# vsim -modelsimini /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_contador.all_8d6b269f2388e3d5998796f5d149563f9e05601a/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_contador(tb) -L vunit_lib -L lib -g/tb_contador/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_contador.all_8d6b269f2388e3d5998796f5d149563f9e05601a/,tb path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/,use_color : true" 
+# Start time: 11:52:54 on Oct 01,2021
+# ** Warning: Design size of 21537 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Error: Falha no inÃ­cio
+#    Time: 200 ps  Iteration: 0  Process: /tb_contador/main File: /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd
+# Break in Process main at /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd line 44
+# Stopped at /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd line 44
+# 
+# Test Run Failed!
+# 
+# Stack trace result from 'tb' command
+#  /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd 44 return [address 0xf6d4a6f7] Process main
+# 
+# 
+# Surrounding code from 'see' command
+#   39 :     test_runner_setup(runner, runner_cfg);
+#   40 : 
+#   41 :     -- Teste: 0
+#   42 : 		Cont <= '0'; clear <= '1';
+#   43 :     wait until inClock'event and inClock='0';
+# ->44 : 		assert(Q1 = '0' and Q0 = '0')  report "Falha no inÃ­cio" severity error;
+#   45 : 	
+#   46 :     -- Teste: 1
+#   47 : 		Cont <= '0'; clear <= '0';
+#   48 :     wait until inClock'event and inClock='0';
+# 

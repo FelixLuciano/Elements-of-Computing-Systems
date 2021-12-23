@@ -1,0 +1,6 @@
+# vsim -modelsimini /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_carry.all_33759e5e19d7fa697fcc856158eab3db27d595c3/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_carry(tb) -L vunit_lib -L lib -g/tb_carry/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_carry.all_33759e5e19d7fa697fcc856158eab3db27d595c3/,tb path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/,use_color : true" 
+# Start time: 11:36:10 on Oct 01,2021
+# ** Warning: Design size of 21670 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# Break in Subprogram stop at /home/borg/.local/lib/python3.8/site-packages/vunit/vhdl/core/src/stop_body_2008p.vhd line 13
+# Stopped at /home/borg/.local/lib/python3.8/site-packages/vunit/vhdl/core/src/stop_body_2008p.vhd line 13

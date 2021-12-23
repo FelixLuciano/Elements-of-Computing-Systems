@@ -1,0 +1,3 @@
+lib.tb_carry.all_33759e5e19d7fa697fcc856158eab3db27d595c3 lib.tb_carry.all
+lib.tb_contador.all_8d6b269f2388e3d5998796f5d149563f9e05601a lib.tb_contador.all
+lib.tb_deteccao.all_81a71855df6f71e3cac5699c05ad68b4c5644fdc lib.tb_deteccao.all

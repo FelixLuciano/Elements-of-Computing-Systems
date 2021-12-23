@@ -1,0 +1,4 @@
+Qual o erro na implementação do Full Adder de 8 bits e onde se localiza (em qual dos adders)?
+
+Defeito localizado no 6º e 7º bit do somador. No 6º somador, a entrada C_in recebe a saida S do 5º somador ao invés do C_out do 5º somador.
+E o 7º somador recebe um sinal logico baixo na entrada B.

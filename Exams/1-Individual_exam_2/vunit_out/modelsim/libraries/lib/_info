@@ -1,0 +1,651 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano
+Ecarry
+Z1 w1633097797
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+R0
+Z4 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/carry.vhd
+Z5 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/carry.vhd
+l0
+Z6 L10 1
+VSg@4mK<<=V6_gk?BNZWN93
+!s100 cB;6b;6`>SLaiXeAKdnNH2
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1633098008
+!i10b 1
+Z9 !s108 1633098008.000000
+Z10 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/carry.vhd|
+Z11 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/carry.vhd|
+!i113 1
+Z12 o-quiet -2008 -work lib
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+DEx4 work 5 carry 0 22 Sg@4mK<<=V6_gk?BNZWN93
+!i122 3
+l30
+L19 25
+VPhMm7_0lM>gL;Wcl?^I6i2
+!s100 Cl:S9n:5gdB1@[UFNQ>@l3
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtador
+Z14 w1633099972
+R2
+R3
+!i122 28
+R0
+Z15 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/contador.vhd
+Z16 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/contador.vhd
+l0
+L4 1
+VRZS@HRPS10Ld<J02`[gk12
+!s100 :llhXK<:9BXQbY?6WKg?z2
+R7
+33
+Z17 !s110 1633099973
+!i10b 1
+Z18 !s108 1633099973.000000
+Z19 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/contador.vhd|
+Z20 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/contador.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+Z21 DEx4 work 8 contador 0 22 RZS@HRPS10Ld<J02`[gk12
+!i122 28
+l31
+Z22 L12 44
+VKJ25IMA0M<`8NYi:hR33^2
+!s100 8V<:EzA6XC`Y]8^k6k2oe1
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Edeteccao
+Z23 w1633099286
+R2
+R3
+!i122 24
+R0
+Z24 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/deteccao.vhd
+Z25 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/deteccao.vhd
+l0
+L4 1
+VY_E^eO;1jhTzBE^^J6Cz31
+!s100 ZO?=RcX3AeEdgTPO@b4Lc0
+R7
+33
+Z26 !s110 1633099288
+!i10b 1
+Z27 !s108 1633099288.000000
+Z28 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/deteccao.vhd|
+Z29 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/deteccao.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 8 deteccao 0 22 Y_E^eO;1jhTzBE^^J6Cz31
+!i122 24
+l14
+L9 11
+VZQ:Wl438NSAUjfO0<Z03I0
+!s100 cN@g5Bb]8zk9OMZ@?>WQN0
+R7
+33
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
+Eflipflopd
+Z30 w1633093959
+R2
+R3
+!i122 6
+R0
+Z31 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FlipFlopD.vhd
+Z32 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FlipFlopD.vhd
+l0
+L8 1
+Vb>0d0SFJ7I_bZn7^0fNI20
+!s100 dO0M_NbMc7lj3o=60[LCQ0
+R7
+33
+R8
+!i10b 1
+R9
+Z33 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FlipFlopD.vhd|
+Z34 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FlipFlopD.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 9 flipflopd 0 22 b>0d0SFJ7I_bZn7^0fNI20
+!i122 6
+l20
+L18 13
+VeoG4BUfVY4AO<2iL:eHgG2
+!s100 LEXEK@::C2`OjoNkRZNIO2
+R7
+33
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 1
+R12
+R13
+Efulladder
+R30
+R2
+R3
+!i122 5
+R0
+Z35 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FullAdder.vhd
+Z36 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FullAdder.vhd
+l0
+R6
+V;RB>US:oiVgf@@2;ERnEW2
+!s100 ^oFEXWUb;T^9LUJXBGnJH2
+R7
+33
+R8
+!i10b 1
+R9
+Z37 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FullAdder.vhd|
+Z38 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/FullAdder.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 9 fulladder 0 22 ;RB>US:oiVgf@@2;ERnEW2
+!i122 5
+l22
+L17 10
+VV0SUk`F[kT6?kF7ac8AZC1
+!s100 Ih]Mc;a0S9C[KW=O0:J]P1
+R7
+33
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Etanques
+Z39 w1633095317
+R2
+R3
+!i122 0
+R0
+Z40 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/tanques.vhd
+Z41 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/tanques.vhd
+l0
+L4 1
+V:ihSfD`5gFGW_VROVnl<G3
+!s100 A<]e5jOXSE1X_Lzc5JX]g3
+R7
+33
+R8
+!i10b 1
+R9
+Z42 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/tanques.vhd|
+Z43 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/tanques.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 7 tanques 0 22 :ihSfD`5gFGW_VROVnl<G3
+!i122 0
+l23
+L17 14
+V[Qg_W@@b:Q6Z5TVl;oflF2
+!s100 2RHUUXWl^Jdnaf9i;f@BU3
+R7
+33
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Etb_carry
+Z44 w1633098967
+Z45 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
+Z46 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
+Z47 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
+Z48 DPx9 vunit_lib 7 run_pkg 0 22 L;71H6TCjU4gL1AJPm_Vd0
+Z49 DPx9 vunit_lib 13 run_types_pkg 0 22 ZfDWW?_fEaQBz>VkefFUV2
+Z50 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
+Z51 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
+Z52 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
+Z53 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
+Z54 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
+Z55 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
+Z56 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
+Z57 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
+Z58 DPx9 vunit_lib 15 log_handler_pkg 0 22 4LC?iW3FIdm8J@]^l:Fa_0
+Z59 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
+Z60 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
+Z61 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
+Z62 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
+Z63 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
+Z64 D^#x9 vunit_lib 18 data_types_context 0 22 [Ik[<YbW8Ag;h5P``aP2g3
+Z65 DPx9 vunit_lib 8 dict_pkg 0 22 _EQKR[P[ibBW^<0mzPejD2
+Z66 DPx9 vunit_lib 19 byte_vector_ptr_pkg 0 22 nMb7G]QlQkbCia?ecQlOB1
+Z67 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 ;oGa_UEi8nVncYkDRR_Aj1
+Z68 DPx9 vunit_lib 14 queue_pool_pkg 0 22 W_@1eWPT4E>cBF2g>m`PC0
+Z69 DPx9 vunit_lib 17 integer_array_pkg 0 22 o:H2ie>cVB<O<8]@gJG;:3
+Z70 DPx9 vunit_lib 19 external_string_pkg 0 22 iE_JL@S7G[ScLPziLPH3]3
+Z71 DPx9 vunit_lib 14 string_ptr_pkg 0 22 n[AzFb_A:6S@HQFZYcL]h0
+Z72 DPx9 vunit_lib 9 queue_pkg 0 22 CMi_fVS`R;@j5e>onMNln3
+Z73 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 FX=7VbM]W@D7RN`^3N8aJ3
+Z74 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
+Z75 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z76 DPx4 ieee 11 numeric_bit 0 22 G2;d`f^X6V]cQEn8_38:i1
+Z77 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z78 DPx4 ieee 12 math_complex 0 22 lndMRF4<kJnT_9]@:30S@3
+Z79 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
+Z80 DPx9 vunit_lib 27 external_integer_vector_pkg 0 22 hl?S7F7[zeX8D09=mXj_W2
+Z81 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 dQHde;mb=n>VUWALE0?M33
+Z82 DPx9 vunit_lib 9 types_pkg 0 22 8X1EBI95Q8hI=Vi3D9DP;0
+R2
+R3
+!i122 21
+R0
+Z83 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd
+Z84 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd
+l0
+Z85 L12 1
+VJnUENO7Pm6W?BD<POJ;h^1
+!s100 P@P`0g2bEfWBAdU^IW9Am0
+R7
+33
+Z86 !s110 1633098969
+!i10b 1
+Z87 !s108 1633098969.000000
+Z88 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd|
+Z89 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd|
+!i113 1
+R12
+R13
+Atb
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R58
+R59
+R60
+R61
+R62
+R63
+R64
+R65
+R66
+R67
+R68
+R69
+R70
+R71
+R72
+R73
+R74
+R75
+R76
+R77
+R78
+R79
+R80
+R81
+R82
+R2
+R3
+DEx4 work 8 tb_carry 0 22 JnUENO7Pm6W?BD<POJ;h^1
+!i122 21
+l30
+L16 56
+V4MRAELM2?^L26hW49Y0Ym2
+!s100 m8Vl0Sm<<UG;oh<^Oj9>f0
+R7
+33
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 1
+R12
+R13
+Etb_contador
+R30
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R58
+R59
+R60
+R61
+R62
+R63
+R64
+R65
+R66
+R67
+R68
+R69
+R70
+R71
+R72
+R73
+R74
+R75
+R76
+R77
+R78
+R79
+R80
+R81
+R82
+R2
+R3
+!i122 27
+R0
+Z90 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd
+Z91 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd
+l0
+R85
+VF2zON6Q<5Te:M7G@T;CkW1
+!s100 `:jZ2zV^z4LOj3lQjjzn93
+R7
+33
+Z92 !s110 1633099960
+!i10b 1
+Z93 !s108 1633099960.000000
+Z94 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd|
+Z95 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_contador.vhd|
+!i113 1
+R12
+R13
+Atb
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R58
+R59
+R60
+R61
+R62
+R63
+R64
+R65
+R66
+R67
+R68
+R69
+R70
+R71
+R72
+R73
+R74
+R75
+R76
+R77
+R78
+R79
+R80
+R81
+R82
+R2
+R3
+DEx4 work 11 tb_contador 0 22 F2zON6Q<5Te:M7G@T;CkW1
+!i122 27
+l31
+L16 63
+VZ[iP;2jI]YKZ@:h=BHH6G1
+!s100 UNLZG0o;H=[VJkzNfO`2@1
+R7
+33
+R92
+!i10b 1
+R93
+R94
+R95
+!i113 1
+R12
+R13
+Etb_deteccao
+R30
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R58
+R59
+R60
+R61
+R62
+R63
+R64
+R65
+R66
+R67
+R68
+R69
+R70
+R71
+R72
+R73
+R74
+R75
+R76
+R77
+R78
+R79
+R80
+R81
+R82
+R2
+R3
+!i122 22
+R0
+Z96 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_deteccao.vhd
+Z97 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_deteccao.vhd
+l0
+L13 1
+Vi=VU9WMo0bWf=?VHF19hW3
+!s100 ^ZcXTiLdGHm]bYmohRbCn3
+R7
+33
+Z98 !s110 1633099193
+!i10b 1
+Z99 !s108 1633099193.000000
+Z100 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_deteccao.vhd|
+Z101 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_deteccao.vhd|
+!i113 1
+R12
+R13
+Atb
+R45
+R46
+R47
+R48
+R49
+R50
+R51
+R52
+R53
+R54
+R55
+R56
+R57
+R58
+R59
+R60
+R61
+R62
+R63
+R64
+R65
+R66
+R67
+R68
+R69
+R70
+R71
+R72
+R73
+R74
+R75
+R76
+R77
+R78
+R79
+R80
+R81
+R82
+R2
+R3
+DEx4 work 11 tb_deteccao 0 22 i=VU9WMo0bWf=?VHF19hW3
+!i122 22
+l27
+L17 38
+VogdFJ5Df6b]zzb1l9S:Lz2
+!s100 J=dCQWGaNC5N?GFG@0YA01
+R7
+33
+R98
+!i10b 1
+R99
+R100
+R101
+!i113 1
+R12
+R13
+Etoplevel
+R30
+R75
+R2
+R3
+!i122 4
+R0
+Z102 8/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/TopLevel.vhd
+Z103 F/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/TopLevel.vhd
+l0
+L20 1
+VFCa<;a8<?R^U<ZKD[QTQj2
+!s100 TMGM1N]j:4gl?hLT<M<KU0
+R7
+33
+R8
+!i10b 1
+R9
+Z104 !s90 -quiet|-modelsimini|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/TopLevel.vhd|
+Z105 !s107 /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/src/TopLevel.vhd|
+!i113 1
+R12
+R13
+Artl
+R75
+R2
+R3
+DEx4 work 8 toplevel 0 22 FCa<;a8<?R^U<ZKD[QTQj2
+!i122 4
+l43
+L31 25
+VY[0?jWC2RaA4Ogho`TPQI2
+!s100 G0?T?z@IAJa7WdCPICYnh2
+R7
+33
+R8
+!i10b 1
+R9
+R104
+R105
+!i113 1
+R12
+R13

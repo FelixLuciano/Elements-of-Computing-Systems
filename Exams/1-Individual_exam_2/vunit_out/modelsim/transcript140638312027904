@@ -1,0 +1,30 @@
+# do /home/borg/.local/lib/python3.8/site-packages/vunit/sim_if/tcl_read_eval_loop.tcl
+# vsim -modelsimini /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_carry.all_33759e5e19d7fa697fcc856158eab3db27d595c3/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_carry(tb) -L vunit_lib -L lib -g/tb_carry/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/vunit_out/test_output/lib.tb_carry.all_33759e5e19d7fa697fcc856158eab3db27d595c3/,tb path : /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/,use_color : true" 
+# Start time: 11:35:46 on Oct 01,2021
+# ** Warning: Design size of 21670 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Error: Falha na soma
+#    Time: 600 ps  Iteration: 0  Process: /tb_carry/main File: /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd
+# Break in Process main at /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd line 62
+# Stopped at /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd line 62
+# 
+# Test Run Failed!
+# 
+# Stack trace result from 'tb' command
+#  /home/borg/Documents/Elementos/Provas/21b-ele-av2-FelixLuciano/testes/tb_carry.vhd 62 return [address 0xf6d4ad78] Process main
+# 
+# 
+# Surrounding code from 'see' command
+#   57 : 		wait for 100 ps;
+#   58 : 		assert(outQ = "01111111" and overflow = '1')  report "Falha na soma" severity error;	
+#   59 :     
+#   60 : 		inA <= "01010101"; inB <= "11000000";
+#   61 : 		wait for 100 ps;
+# ->62 : 		assert(outQ = "10010101" and overflow = '1')  report "Falha na soma" severity error;	
+#   63 :     
+#   64 : 		inA <= "10101010"; inB <= "10000000";
+#   65 : 		wait for 100 ps;
+#   66 : 		assert(outQ = "00101010" and overflow = '1')  report "Falha na soma" severity error;	
+# 
+# End time: 11:35:46 on Oct 01,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1

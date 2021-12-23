@@ -1,0 +1,26 @@
+{
+  "aluno-1": {
+    "nome": "Giancarlo Vanoni Ruggiero",
+    "user-github": "Gian2608"
+  },
+  "aluno-2": {
+    "nome": "Gustavo Eliziario Stevenson De Oliveira",
+    "user-github": "gustavoeso"
+  },
+  "aluno-3": {
+    "nome": "Luciano Felix Dias",
+    "user-github": "FelixLuciano"
+  },
+  "aluno-4": {
+    "nome": "Luka Siqueira Ferreira de Figueiredo",
+    "user-github": "lukafig"
+  },
+  "aluno-5": {
+    "nome": "Vinicius Matheus Morales",
+    "user-github": "viniciusmm7"
+  },
+  "aluno-6": {
+    "nome": "Pedro Cliquet Do Amaral",
+    "user-github": "pcliquet"
+  }
+}
