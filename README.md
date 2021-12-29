@@ -20,7 +20,7 @@
 - Describe how data and instructions are stored and handled on computers.
 - Understand issues related to performance, operation and maintenance of digital systems
 
-## Exams
+## [Exams](Exams)
 
 ### [Individual exam 2](Exams/1-Individual_exam_2)
 
