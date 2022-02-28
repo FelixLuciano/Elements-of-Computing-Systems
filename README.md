@@ -77,6 +77,7 @@
 
 
 ## [Project Einstein](Project-Einstein)
+![Z01 Einstein](https://user-images.githubusercontent.com/22255332/137921415-2cbc0b8b-9abd-4a55-ba6d-012276ce87d6.png)
 
 ### Motivation
 **Develop a computer from ground up!**
