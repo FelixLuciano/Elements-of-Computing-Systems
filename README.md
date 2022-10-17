@@ -1,6 +1,6 @@
-# Elements of Computing Systems
+[Renan Doria, Ph.D](http://lattes.cnpq.br/4251940542370219). Elementos de Sistemas. [Insper](https://github.com/Insper), 2021.
 
-[Ph.D. Renan Doria](http://lattes.cnpq.br/4251940542370219), [Insper](https://github.com/Insper), 2021.
+# Elements of Computing Systems
 
 - Digital electronic systems;
 - Boolean algebra and numbering systems;
