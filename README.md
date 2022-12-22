@@ -84,11 +84,55 @@
 
 ### Authors
 
-|![](https://avatars.githubusercontent.com/u/89101392?v=4)         |![](https://avatars.githubusercontent.com/u/72350494?v=4)               |![](https://avatars.githubusercontent.com/u/22255332?v=4)|
-|:----------------------------------------------------------------:|:----------------------------------------------------------------------:|:-------------------------------------------------------:|
-|[Giancarlo Vanoni Ruggiero](https://github.com/Gian2608)          |[Gustavo Eliziario Stevenson De Oliveira](https://github.com/gustavoeso)|[Luciano Felix Dias](https://github.com/FelixLuciano)    |
-|![](https://avatars.githubusercontent.com/u/72396320?v=4)         |![](https://avatars.githubusercontent.com/u/70667675?v=4)               |![](https://avatars.githubusercontent.com/u/73079076?v=4)|
-|[Luka Siqueira Ferreira de Figueiredo](https://github.com/lukafig)|[Vinicius Matheus Morales](https://github.com/viniciusmm7)              |[Pedro Cliquet do Amaral](https://github.com/pcliquet)   |
+<table width="100%">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Gian2608"><img src="https://avatars.githubusercontent.com/u/89101392?v=4" style="width: 50%;" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gustavoeso"><img src="https://avatars.githubusercontent.com/u/72350494?v=4" style="width: 50%;" /><br /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/FelixLuciano"><img src="https://avatars.githubusercontent.com/u/22255332?v=4" style="width: 50%;" /><br /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Gian2608"><strong>Giancarlo Ruggiero</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gustavoeso"><strong>Gustavo de Oliveira</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/FelixLuciano"><strong>Luciano Felix</strong></a>
+        </td>
+    </tr>
+</table>
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/lukafig"><img src="https://avatars.githubusercontent.com/u/72396320?v=4" style="width: 50%;" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/viniciusmm7"><img src="https://avatars.githubusercontent.com/u/70667675?v=4" style="width: 50%;" /><br /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/pcliquet"><img src="https://avatars.githubusercontent.com/u/73079076?v=4" style="width: 50%;" /><br /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/lukafig"><strong>Luka Siqueira de Figueiredo</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/viniciusmm7"><strong>Vinicius Morales</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/pcliquet"><strong>Pedro do Amaral</strong></a>
+        </td>
+    </tr>
+</table>
 
 
 ## Course Bibliography
